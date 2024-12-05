@@ -1,0 +1,4 @@
+1984,George Orwell,True
+Brave New World,Aldous Huxley,True
+Fahrenheit 451,Ray Bradbury,False
+Animal Farm,George Orwell,True
